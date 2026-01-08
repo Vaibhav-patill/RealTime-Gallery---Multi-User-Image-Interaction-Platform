@@ -440,8 +440,7 @@ Edit `src/utils/constants.js`:
 ```javascript
 // Add/remove admin emails
 export const ADMIN_EMAILS = [
-  'admin1@example.com',
-  'admin2@example.com',
+  'anushka.alandkar@fotoowl.ai',
 ];
 
 // Customize available emojis
