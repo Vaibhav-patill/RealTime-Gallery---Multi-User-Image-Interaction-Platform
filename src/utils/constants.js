@@ -9,7 +9,8 @@ export const UNSPLASH_API = {
 export const INSTANTDB_APP_ID = import.meta.env.VITE_INSTANTDB_APP_ID;
 
 export const ADMIN_EMAILS = [
-  'vaibhav01302@gmail.com'
+  'vaibhav01302@gmail.com',
+  'anushka.alandkar@fotoowl.ai'
 ];
 
 export const AVAILABLE_EMOJIS = ['❤️', '😍', '🔥', '👏', '😂', '🎉', '💯', '✨'];
