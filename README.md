@@ -565,8 +565,8 @@ This project demonstrates:
 
 ## 🔗 Important Links
 
-- [Live Demo]((https://real-time-gallery-one.vercel.app/))
-- [GitHub Repository]((https://github.com/Vaibhav-patill/RealTime-Gallery---Multi-User-Image-Interaction-Platform/))
+- [Live Demo](https://real-time-gallery-one.vercel.app/)
+- [GitHub Repository](https://github.com/Vaibhav-patill/RealTime-Gallery---Multi-User-Image-Interaction-Platform/)
 - [InstantDB Dashboard](https://www.instantdb.com/)
 - [Unsplash Developers](https://unsplash.com/developers)
 
